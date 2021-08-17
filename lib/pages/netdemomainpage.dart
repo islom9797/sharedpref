@@ -31,7 +31,7 @@ class _NetdemoMainPageState extends State<NetdemoMainPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text(data.length>1?data:"No data"),
+        child: Text(data.length>1?data:"No dataa"),
       ),
     );
   }
